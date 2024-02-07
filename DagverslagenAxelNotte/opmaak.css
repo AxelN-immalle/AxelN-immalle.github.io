@@ -25,6 +25,12 @@ img.Logo {
 
 nav {
     margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+aside {
+    float: left;
+    width: 12.5%;
 }
 
 
@@ -34,6 +40,13 @@ li.nav {
     padding: 0;
     margin: 0;
 }
+
+section {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    padding-top: 100px;
+}
+
 
 a.e-mail {
     color: white;
@@ -64,11 +77,6 @@ a:hover {
     color: #c21b3f
 }
 
-section {
-    margin-left: 12.5%;
-    margin-right: 12.5%;
-}
-
 
 li.footer {
     margin: 0px;
@@ -78,6 +86,7 @@ li.footer {
 p.tussentitel {
     padding-top: 5px;
     margin-left: 10px;
+    text-decoration: underline;
 }
 
 p.footer {
