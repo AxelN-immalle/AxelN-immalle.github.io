@@ -23,7 +23,7 @@ img.Logo {
     margin-left: 125px;
 }
 
-nav{
+nav {
     margin-top: 100px;
 }
 
@@ -35,6 +35,26 @@ li.nav {
     margin: 0;
 }
 
+a.e-mail {
+    color: white;
+    font-weight: bold;
+}
+
+a.e-mail:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+a.telefoon:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+a.telefoon {
+    color: white;
+    font-weight: bold;
+}
+
 a {
     color: #de8699;
     text-decoration: none;
@@ -44,23 +64,23 @@ a:hover {
     color: #c21b3f
 }
 
-section{
+section {
     margin-left: 12.5%;
     margin-right: 12.5%;
 }
 
 
-li.footer{
+li.footer {
     margin: 0px;
     list-style-type: none;
 }
 
-p.tussentitel{
+p.tussentitel {
     padding-top: 5px;
     margin-left: 10px;
 }
 
-p.footer{
+p.footer {
     margin: 7px;
     margin-left: 10px;
 }
@@ -70,4 +90,3 @@ footer {
     background-color: #be0e34;
     width: 100%;
 }
-
