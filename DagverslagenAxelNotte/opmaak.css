@@ -28,10 +28,15 @@ nav {
     margin-bottom: 20px;
 }
 
+.active a {
+    color: #c21b3f ;
+}
+
 aside {
     float: left;
     width: 12.5%;
 }
+
 
 
 li.nav {
@@ -47,6 +52,9 @@ section {
     padding-top: 100px;
 }
 
+img{
+    margin-left: 37.5%;
+}
 
 a.e-mail {
     color: white;
