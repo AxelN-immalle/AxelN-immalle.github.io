@@ -33,8 +33,23 @@ img.Logo {
     margin-left: 125px;
 }
 
+li.footer{
+    margin: 0px;
+    list-style-type: none;
+}
+
+p.tussentitel{
+    margin-left: 10px;
+}
+
+p.footer{
+    margin: 7px;
+    margin-left: 10px;
+}
+
 footer {
     color: white;
     background-color: #be0e34;
+    width: 100%;
 }
 
