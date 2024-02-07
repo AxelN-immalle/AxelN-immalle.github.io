@@ -52,8 +52,19 @@ section {
     padding-top: 100px;
 }
 
+
 img{
     margin-left: 37.5%;
+}
+
+a.e-mailc {
+    color: black;
+    font-weight: bold;
+}
+
+a.telefoonc {
+    color: black;
+    font-weight: bold;
 }
 
 a.e-mail {
