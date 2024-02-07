@@ -1,6 +1,12 @@
 body {
     font-family: Arial;
     background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    margin-top: 100px;
 }
 
 a {
@@ -25,6 +31,10 @@ header {
     height: 100px;
     padding: 0;
     margin: 0;
+    backdrop-filter: blur(3px);
+    background-color: rgba(0, 0, 0, 0.544);
+    position: fixed;
+    top: 0;
 }
 
 img.Logo {
@@ -39,6 +49,7 @@ li.footer{
 }
 
 p.tussentitel{
+    padding-top: 5px;
     margin-left: 10px;
 }
 
